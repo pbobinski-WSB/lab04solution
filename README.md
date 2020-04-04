@@ -1,4 +1,4 @@
-# Przykładowe rozwiązania zadań 1 i 2 z laboratorium 4
+# Przykładowe rozwiązania zadań 1 i 2 z laboratorium 4 z PO
 ### lab04solution
 
 ## zadanie 1
