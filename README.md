@@ -8,5 +8,5 @@
 Kilka sposobów na zrobienie tego co trzeba. Pliki:
 * [Matcher.java](Matcher.java)
 * [Matcher1.java](Matcher1.java)
-* [Matcher2.java]Matcher2.java
-* [Matcher3.java]Matcher3.java
+* [Matcher2.java](Matcher2.java)
+* [Matcher3.java](Matcher3.java)
